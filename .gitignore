@@ -1,6 +1,7 @@
 SentEval/data
 models/*
 /data/text/*
+/data/wiki1m_for_simcse.txt
 .idea
 *.lock
 *.out
